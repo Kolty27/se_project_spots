@@ -1,5 +1,8 @@
 .profile {
   display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
   padding: 34px 0 20px;
   border-bottom: rgba(33, 33, 33, 0.4) solid 1px;
 }
@@ -88,7 +91,7 @@
   transition: background-color 0.3s ease;
 }
 
-@media screen and (max-width: 627px) {
+@media screen and (max-width: 640px) {
   .profile {
     display: flex;
     flex-direction: column;
@@ -122,7 +125,8 @@
   }
 
   .profile__add-button {
-    margin: 0;
+    margin: 16px 0 0 0;
+    margin-left: 0;
     width: 100%;
   }
 }
