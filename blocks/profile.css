@@ -95,6 +95,7 @@
 
 @media screen and (max-width: 640px) {
   .profile {
+    flex-direction: column;
     max-width: 288px;
     align-items: center;
     text-align: center;
