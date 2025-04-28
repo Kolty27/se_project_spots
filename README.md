@@ -46,4 +46,6 @@
 
 [View the deployed project on GitHub Pages here!](https://kolty27.github.io/se_project_spots/)
 
+[Video detailing the Spots Project](https://drive.google.com/file/d/12kGqqJxqwOjEF5LGrtvLO23cLyH6kF7R/view?usp=drive_link)
+
 ---
